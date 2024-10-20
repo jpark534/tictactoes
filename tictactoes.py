@@ -15,5 +15,5 @@ def printBoard(board):
   print(board[6] + "|" + board[7] + "|" + board[8])
 
 # #take player input
-# def playerInput(board):
-#   inp = int(input(""))
+def playerInput(board):
+  inp = int(input(""))
